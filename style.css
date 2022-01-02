@@ -1,0 +1,40 @@
+body
+{
+	background-color:red;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:springgreen;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 8px;
+	margin-right: 10px;
+}
+h1
+{
+color:sandybrown;
+}
+h5{
+    color:royalblue
+}
+#output
+{
+	background-color: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h3, span{
+	display: inline;
+	font-size: 20px !important;
+}
